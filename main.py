@@ -1,4 +1,4 @@
-from ask_question import Ask
+from appreciate import Appreciate
 
-main = Ask()
-main.ask()
+main = Appreciate()
+main.thank()
